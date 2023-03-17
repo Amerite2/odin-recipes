@@ -1,1 +1,1 @@
-Odin project regarding ones favorite dishes making use of simple html
+Odin project regarding ones favorite dishes making use of simple html + css
